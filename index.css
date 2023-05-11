@@ -1,0 +1,131 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px 10px;
+}
+
+.image {
+  width: 650px;
+}
+
+p {
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 18px;
+  margin: 10px;
+}
+
+.certificate {
+  width: 700px;
+}
+
+@media only screen and (max-width: 700px) {
+  body {
+    margin: 20px 10px;
+  }
+
+  .image {
+    width: 550px;
+  }
+
+  .certificate {
+    width: 600px;
+  }
+}
+
+@media only screen and (max-width: 605px) {
+  body {
+    margin: 10px 10px;
+  }
+
+  .image {
+    width: 450px;
+  }
+
+  p {
+    font-size: 13px;
+  }
+
+  h1 {
+    font-size: 16px;
+    margin: 10px;
+  }
+
+  .certificate {
+    width: 500px;
+  }
+}
+
+@media only screen and (max-width: 505px) {
+  body {
+    margin: 0 10px;
+  }
+
+  .image {
+    width: 380px;
+  }
+
+  p {
+    font-size: 11px;
+  }
+
+  h1 {
+    font-size: 14px;
+    margin: 10px;
+  }
+
+  .certificate {
+    width: 400px;
+  }
+}
+
+@media only screen and (max-width: 405px) {
+  body {
+    margin: 0 10px;
+  }
+
+  .image {
+    width: 340px;
+  }
+
+  p {
+    font-size: 11px;
+  }
+
+  h1 {
+    font-size: 14px;
+    margin: 10px;
+  }
+
+  .certificate {
+    width: 350px;
+  }
+}
+
+@media only screen and (max-width: 355px) {
+  body {
+    margin: 0 10px;
+  }
+
+  .image {
+    width: 290px;
+  }
+
+  p {
+    font-size: 11px;
+  }
+
+  h1 {
+    font-size: 14px;
+    margin: 10px;
+  }
+
+  .certificate {
+    width: 310px;
+  }
+}
