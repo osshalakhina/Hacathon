@@ -1,6 +1,6 @@
 # Hacathon
 
-Works made for DOU Hacathon.
+Certificate and examples for t-shorts design created for DOU Hacathon. Used Adobe Photoshop, Adobe Illustartor.
 
 # Preview
 
